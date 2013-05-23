@@ -123,7 +123,7 @@ namespace Akamai
                 _PurgeType = value;
             }
         }
-
+      
 
         /// <summary>
         /// This calls the Akamai service and passes all the properties to it.  Calling this will remove items from the cache.
